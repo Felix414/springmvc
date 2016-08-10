@@ -45,6 +45,6 @@ public class HelloController {
 		model.addAttribute("message", "world");
 		return "hello/test";
 	}
-	//test tijiao hello你好felix 大脑被掏空了
+	
 	
 }
