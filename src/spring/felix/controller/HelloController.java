@@ -45,6 +45,6 @@ public class HelloController {
 		model.addAttribute("message", "world");
 		return "hello/test";
 	}
-	//hello world ±»ÌÍ¿Õ
+	
 	
 }
