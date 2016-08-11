@@ -46,6 +46,5 @@ public class HelloController {
 		return "hello/test";
 	}
 	//i feel good bd pq is different primary school senior school
-	//junior school
 	
 }

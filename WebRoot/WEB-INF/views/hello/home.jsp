@@ -28,7 +28,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	jsp feel good
 	bd pq is different
 	primary school
-	junior school
 	senior school
 	-->
   </body>
