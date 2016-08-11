@@ -45,7 +45,7 @@ public class HelloController {
 		model.addAttribute("message", "world");
 		return "hello/test";
 	}
-	//i feel good bd pq is different primary school
+	//i feel good bd pq is different primary school senior school
 	//junior school
 	
 }
