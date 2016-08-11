@@ -24,5 +24,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
     hello,${user.username },${user.pwd }<br>
+    <!--
+	jsp feel good
+	-->
   </body>
 </html>
